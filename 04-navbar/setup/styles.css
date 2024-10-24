@@ -125,7 +125,8 @@ p {
   h2,
   h3,
   h4 {
-    line-height: 1;
+    line-height: 5;  // here i change the line heinght with a increase of 4 
+    // by Abhay 
   }
 }
 /*  global classes */
