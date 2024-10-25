@@ -70,7 +70,7 @@ body {
   font-family: var(--ff-secondary);
   background: var(--clr-grey-10);
   color: var(--clr-grey-1);
-  line-height: 1.5;
+  line-height: 1.7; /* here changed the line height from 1.5 to 1.7 by Diya Dalakoti */
   font-size: 0.875rem;
 }
 ul {
