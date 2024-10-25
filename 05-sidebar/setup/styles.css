@@ -90,7 +90,7 @@ h4 {
   font-family: var(--ff-primary);
 }
 h1 {
-  font-size: 3rem;
+  font-size: 3rem;      /* here change font size from 3rem to 5 rem by Taniya Negi */
 }
 h2 {
   font-size: 2rem;
