@@ -1,3 +1,4 @@
+// graded lab 3
 const toggleBtn = document.querySelector('.btn');
 const articlesContainer = document.querySelector('.articles');
 
