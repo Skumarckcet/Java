@@ -18,3 +18,6 @@ navToggle.addEventListener("click", function () {
   // }
   links.classList.toggle("show-links");
 });
+
+// for now just adding comments so as to make some changes in the file for the git to track.
+// So my name is Kartik Bhatia
